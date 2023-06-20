@@ -7,7 +7,7 @@ To achieve this, I utilized Tableau, a popular and robust data visualization sof
 
 The dashboard includes several key metrics:
 
-Share of the population that has been partly, fully, and not vaccinated.
+* Share of the population that has been partly, fully, and not vaccinated.
 * Continent and country-wise vaccination.
 * Vaccine doses administered.
 * Correlation between GDP and vaccination program performance.
