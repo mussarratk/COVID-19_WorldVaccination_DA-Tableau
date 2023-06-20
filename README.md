@@ -1,4 +1,4 @@
-# COVID-19_WorldVaccination_Analysis
+# Python_COVID-19_WorldVaccination_Analysis
 ## Visualizing the Worldwide Immunization Efforts
 
 The aim of this project was to analyze and provide insights on the global vaccination rollout. The goal was to develop a dashboard with daily metrics that capture the speed and scale of the vaccination program.
